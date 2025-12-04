@@ -1,0 +1,22 @@
+I chose the Pitt 2009-13 and then 2019-23 dataset. 
+
+Since it is a big dataset with a lot of information, I will be focusing on a few submetrics.
+Submetrics:
+Median Household Income
+Poverty Rate
+Owner-Occupancy Rate
+Population Change
+% Bachelor's Degree or Higher
+Median Rent or Rent Burden
+% Households with Children
+
+Most of these metrics correspond to a specific column in my dataset, so I will be filtering my
+dataset according to that. I will also be filtering out the first few rows, as they are by region and
+not neighborhoods in Pittsburgh.
+
+1. Filter out the first 6 entries as they correspond to regions outside of Pittsburgh
+2. Put each submetric in one cell and compute the difference from 2013 to 2023.
+3. Give an improvement score to each neighborhood after normalizing by average
+4. Plot the top 10 and bottom 10 neighborhoods.
+
+Reflection: According to my analysis based on all the metrics South Shore is the best neighborhood to live in.
