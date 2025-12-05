@@ -18,4 +18,4 @@ Reflection: According to my analysis based on all the metrics South Shore is the
 Momrez N Mohsin: mnm151@pitt.edu
 Dataset Used: https://data.wprdc.org/dataset/2009-13-and-2019-23-american-community-survey-estimates-for-city-of-pittsburgh-neighborhoods](https://data.wprdc.org/dataset/city-of-pittsburgh-property-tax-delinquency/resource/ed0d1550-c300-4114-865c-82dc7c23235b
 Description: Allegheny County Property Tax Delinquency Data
-Reflection: My analysis demonstrate that, based on the three components of the Property Risk and Stability Index
+Reflection: My analysis demonstrate that, based on the three components of the Property Risk and Stability Index, the neighborhood that is rated as the most financially stable to live in is Glen Hazel.
