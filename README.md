@@ -16,4 +16,7 @@ Reflection: My analysis demonstrate that, based on the three components of the P
 **Amitva Pal**: amitvapal@pitt.edu  
 Dataset Used: https://data.wprdc.org/dataset/arrest-data (pbp_arrests_2024_jan1_thru_nov30_2025)    
 Description: Pittsburgh Police Arrest Data containing arrest locations, dates, offense types, and demographic information.  
-Reflection: My analysis shows that the neighborhoods with the lowest arrest rates are the safest, with the top-performing neighborhoods demonstrating the strongest stability and lowest levels of criminal activity.   
+Reflection: My analysis shows that the neighborhoods with the lowest arrest rates are the safest, with the top-performing neighborhoods demonstrating the strongest stability and lowest levels of criminal activity.       
+
+## **Conclusion:**
+In each of our Top 10 plots, Ridgemont was the only neighborhood that was common, so it satisfied all submetrics of safety and stability and was hence chosen to be our Best Neighborhood for the metric.
