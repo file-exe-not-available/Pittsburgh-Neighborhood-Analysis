@@ -1,7 +1,7 @@
 ## **Team Name: Silence (Group 49)**
 
 ## **Overview:** 
-This repository contains code and notebooks that show what the best neighborhood of Pittsburgh is.
+This repository contains code and notebooks that show what the best neighborhood of Pittsburgh is based on Stability and Safety.
 
 **Sharvi Arora**: sha370@pitt.edu   
 Dataset Used: https://data.wprdc.org/dataset/2009-13-and-2019-23-american-community-survey-estimates-for-city-of-pittsburgh-neighborhoods   
